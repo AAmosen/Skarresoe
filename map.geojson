@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er tæt på Sølyst, tryk på skærmen for at lære mere.",
-        "navn": "Sølyst"
+        "navn": "Sølyst",
+        "url": "https://aamosen.github.io/Skarresoe/soelyst.html"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er tæt på Skarresholm, tryk på skærmen for at lære mere.",
-        "navn": "Skarresholm"
+        "navn": "Skarresholm",
+        "url": "https://aamosen.github.io/Skarresoe/skarresholm.html"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er i Astrup Skov, tryk på skærmen for at lære mere.",
-        "navn": "Astrup Skov"
+        "navn": "Astrup Skov",
+         "url": "https://aamosen.github.io/Skarresoe/astrupskov.html"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er tæt på Astrup Gods, tryk på skærmen for at lære mere.",
-        "navn": "Astrup Gods"
+        "navn": "Astrup Gods",
+         "url": "https://aamosen.github.io/Skarresoe/astrupgods.html"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er i Skovhave, tryk på skærmen for at lære mere.",
-        "navn": "Skovhave"
+        "navn": "Skovhave",
+         "url": "https://aamosen.github.io/Skarresoe/skovhave.html"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er tæt på Fugleudkigsposten, tryk på skærmen for at lære mere.",
-        "navn": "Fugleudkigsposten"
+        "navn": "Fugleudkigsposten",
+         "url": "https://aamosen.github.io/Skarresoe/fugleudkigsposten.html"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er i Delhoved Skov, tryk på skærmen for at lære mere.",
-        "navn": "Delhoved Skov"
+        "navn": "Delhoved Skov",
+         "url": "https://aamosen.github.io/Skarresoe/delhovedskov.html"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er i Ellesump, tryk på skærmen for at lære mere.",
-        "navn": "Ellesump"
+        "navn": "Ellesump",
+         "url": "https://aamosen.github.io/Skarresoe/ellesump.html"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "info": "Du er tæt på Halleby Å, tryk på skærmen for at lære mere.",
-        "navn": "Halleby Å"
+        "navn": "Halleby Å",
+         "url": "https://aamosen.github.io/Skarresoe/hallebyaa.html"
       },
       "geometry": {
         "type": "Point",
